@@ -3,8 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-* {
+ding-x * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
